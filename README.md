@@ -46,6 +46,6 @@ This profile will include:
 ## 📫 Contact
 - 📧 Email: [Beril Berre Kartal](mailto:berilberrekartal@gmail.com)
 
--🔗 LinkedIn: [Beril Berre Kartal](https://www.linkedin.com/in/berilberrekartal)
+- 🔗 LinkedIn: [Beril Berre Kartal](https://www.linkedin.com/in/berilberrekartal)
 
 
