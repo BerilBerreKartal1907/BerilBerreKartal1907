@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Beril!
 
-<!--
-**BerilBerreKartal1907/BerilBerreKartal1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student with a strong curiosity for data, software, and artificial intelligence.  
+I enjoy learning by building projects, exploring how data turns into insights, and improving my technical skills step by step.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests & Focus Areas
+- Data Analysis & Business Intelligence
+- Python for data processing and automation
+- SQL and structured data
+- Problem solving & algorithmic thinking
+- Software development fundamentals
+- Exploring AI and intelligent systems
+
+---
+
+## 🛠️ Technical Skills
+- **Programming:** Python, C++, C#
+- **Data:** Pandas, NumPy, basic data visualization
+- **Databases:** SQL (learning & practicing)
+- **Tools:** Git, GitHub
+- **Concepts:** Algorithms, OOP, data structures
+
+---
+
+## 📂 Projects
+This profile will include:
+- Data analysis and visualization projects
+- SQL-based data exploration
+- Small software and algorithm-focused projects
+- Learning-oriented experiments and case studies
+
+(Projects are continuously updated as I learn and build.)
+
+---
+
+## 🌱 Currently Learning
+- Business Intelligence fundamentals
+- Data-driven decision making
+- Advanced Python for data analysis
+- Practical software development
+
+---
+
+## 📫 Contact
+- 📧 Email: [Beril Berre Kartal](mailto:berilberrekartal@gmail.com)
+
+-🔗 LinkedIn: [Beril Berre Kartal](https://www.linkedin.com/in/berilberrekartal)
+
+
